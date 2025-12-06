@@ -31,7 +31,7 @@ It’s useful for sign-language interpretation, touchless interaction, robotics 
    git clone https://github.com/Angad2205/Deep_learnig_project_submission.git
    cd Deep_learnig_project_submission
 
-## 📊 Model & Results
+## Model & Results
 
 This project uses a Convolutional Neural Network (CNN) with a simple and effective architecture designed for static hand-gesture classification.  
 The model includes:
