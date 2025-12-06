@@ -1,8 +1,6 @@
 # Deep_learnig_project_submission
 # Hand Gesture Recognation using CNN
 
-# Hand Gesture Recognition using CNN
-
 A simple deep-learning project built during the “Deep Learning & Applications” course.  
 This implements a Convolutional Neural Network (CNN) to classify static hand-gesture images. The model is trained on a custom dataset and demonstrates gesture recognition performance.
 
