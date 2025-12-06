@@ -61,7 +61,7 @@ Training graphs for both accuracy and loss are available in the notebook, showin
 
 ---
 
-## 🛠️ Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates the full deep-learning workflow:
 
@@ -82,7 +82,7 @@ Hand-gesture recognition is widely applicable in:
 
 ---
 
-## 🚀 Future Directions
+## Future Directions
 
 There are several meaningful directions to extend this project:
 
@@ -112,8 +112,3 @@ Convert the trained model into **TensorFlow Lite** for deployment on:
 - Edge computing hardware  
 
 This would allow lightweight, on-device inference without needing cloud support.
-
----
-
-
-
